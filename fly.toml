@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for nike-job-opportunity on 2025-12-16T17:49:44Z
+# fly.toml app configuration file generated for aquent-talent-portal on 2026-05-08T20:03:54Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'nike-job-opportunity'
-primary_region = 'fra'
+app = 'aquent-talent-portal'
+primary_region = 'ewr'
 
 [build]
 
